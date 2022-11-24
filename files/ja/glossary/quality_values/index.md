@@ -43,4 +43,4 @@ Firefox 18 以降、品質係数の値は小数点以下 2 桁に固定されま
 
 ## 詳細情報
 
-- [HTTP headers](/ja/docs/Web/HTTP/Headers) using q-values in their syntax: {{HTTPHeader("Accept")}}, {{HTTPHeader("Accept-Charset")}}, {{HTTPHeader("Accept-Language")}}, {{HTTPHeader("Accept-Encoding")}}, {{HTTPHeader("TE")}}.
+- [HTTP headers](/ja/docs/Web/HTTP/Headers) で品質値が使用できる構文: {{HTTPHeader("Accept")}}, {{HTTPHeader("Accept-Charset")}}, {{HTTPHeader("Accept-Language")}}, {{HTTPHeader("Accept-Encoding")}}, {{HTTPHeader("TE")}}.
